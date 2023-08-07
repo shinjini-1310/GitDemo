@@ -1,1 +1,5 @@
 This is a testfile.
+
+Original code was altered by cloning gitdemo in local machine, modifying code and then pushing to remote github repo.
+
+Now the altered code in remote github repo is pulled by original code creator, gitA, and being altered and pushed again to remote github repo
