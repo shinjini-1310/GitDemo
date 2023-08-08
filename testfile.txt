@@ -5,3 +5,5 @@ Original code was altered by cloning gitdemo in local machine, modifying code an
 Now the altered code in remote github repo is pulled by original code creator, gitA, and being altered and pushed again to remote github repo
 
 USER NO 2 CHECKED OUT THE LATEST CODE FROM MASTER BRANCH INTO A NEW DEV BRANCH, MODIFIED CODE AND MERGED IT TO MASTER
+
+ORIGINAL CODE CREATOR PULLED LATEST DEV BRANCH GITHUB CODE INTO THIS LOCAL DEV BRANCH AMD MODIFIED IT (ADDED PALINDROME CODE)
